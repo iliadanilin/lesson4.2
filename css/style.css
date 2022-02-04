@@ -1,0 +1,28 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@400;700;900display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Grenze+Gotisch:wght@400;700;900&family=Lato:wght@400;700;900&family=Monoton&family=Press+Start+2P&family=Syne+Tactile&display=swap');
+
+h1{
+    font-family:'Grenze Gotisch', cursive;
+    font-weight: 900;
+    font-size: 46px;
+    color: cornflowerblue;
+}   
+body{
+    font-family:'Monoton', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    color: darkseagreen;
+}
+h2{
+    font-family: 'Comforter', cursive;
+    font-weight: 400;
+    font-size: 35px;
+    color: darkblue;
+}
+h3{
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+    font-size: 60px;
+    color: deeppink;
+}
